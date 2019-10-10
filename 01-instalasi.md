@@ -1,6 +1,6 @@
-# Instalasi JDK
+# Instalasi Oracle JDK v13
 
-## I. Instalasi JDK pada sistem operasi Linux berbasis Debian
+## I. Instalasi Oracle JDK v13 pada sistem operasi Linux berbasis Debian
 
 Buka Terminal dan ketik perintah berikut,
 
