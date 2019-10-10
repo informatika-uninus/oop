@@ -2,7 +2,7 @@
 
 ## I. Instalasi JDK pada sistem operasi Linux berbasis Debian
 
-Buka Terminal dan ketik peritah berikut,
+Buka Terminal dan ketik perintah berikut,
 
 1. `sudo apt install dirmngr gnupg`
 2. `sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 73C3DB2A`
